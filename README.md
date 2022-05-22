@@ -1,4 +1,4 @@
-- 👋 Hola, soy @Nabuconodossor
+- 👋 Hola, soy Gabriel Rodriguez
 - 👀 Estoy intesresado en Tecnologias de informacion.
 - 🌱 Actualmente estoy aprendiendo Javascript y Vuejs.
 - 💞️ Estoy buscando colaborar en projectos Javascript.
